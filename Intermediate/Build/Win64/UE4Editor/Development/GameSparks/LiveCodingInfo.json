@@ -1,0 +1,39 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GameSparks.cpp.obj": [
+			"0002GSAmalgamated.cpp.obj",
+			"GameSparksComponent.cpp.obj",
+			"GameSparksLogEventData.cpp.obj",
+			"GameSparksModule.cpp.obj",
+			"GameSparksObject.cpp.obj",
+			"GameSparksRequestArray.cpp.obj",
+			"GameSparksScriptData.cpp.obj",
+			"GSApi.cpp.obj",
+			"GSMessageListeners.cpp.obj",
+			"GSMessageListenersObject.cpp.obj",
+			"UGSRTData.cpp.obj",
+			"UGSRTSession.cpp.obj",
+			"UGSRTVector.cpp.obj"
+		],
+		"Module.GameSparks.gen.1_of_3.cpp.obj": [
+			"GameSparks.init.gen.cpp.obj",
+			"GameSparksComponent.gen.cpp.obj",
+			"GameSparksLogEventData.gen.cpp.obj",
+			"GameSparksObject.gen.cpp.obj",
+			"GameSparksRequestArray.gen.cpp.obj",
+			"GameSparksScriptData.gen.cpp.obj",
+			"GSApi.gen.cpp.obj"
+		],
+		"Module.GameSparks.gen.2_of_3.cpp.obj": [
+			"GSMessageListeners.gen.cpp.obj",
+			"GSMessageListenersObject.gen.cpp.obj",
+			"GSTypes.gen.cpp.obj"
+		],
+		"Module.GameSparks.gen.3_of_3.cpp.obj": [
+			"UGSRTData.gen.cpp.obj",
+			"UGSRTSession.gen.cpp.obj",
+			"UGSRTVector.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,1343 @@
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Definitions.GameSparks.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\0002GSAmalgamated.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\GameSparksPrivatePCH.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Windows\AllowWindowsPlatformTypes.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\guiddef.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack2.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack8.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\ime_cmodes.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\../../GameSparksBaseSDK/src/GameSparksAll.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\./mbedtls/net.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/config.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\check_config.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/net.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\ssl.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\bignum.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\ecp.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\ssl_ciphersuites.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\pk.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\md.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\rsa.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\ecdsa.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\cipher.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\x509_crt.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\x509.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\asn1.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\x509_crl.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\dhm.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\ecdh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\time.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\ws2tcpip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\winsock2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\ws2def.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\inaddr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\qos.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\ws2ipdef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\in6addr.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/blowfish.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/blowfish.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/entropy.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/entropy.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\sha512.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/entropy_poll.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/entropy_poll.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/timing.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\wincrypt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\bcrypt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\ncrypt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\dpapi.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/md5.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/md5.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/sha1.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/sha1.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/sha256.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/sha256.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/sha512.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/ripemd160.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/ripemd160.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/ctr_drbg.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/ctr_drbg.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\mbedtls\aes.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/x509.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/oid.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/pem.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/platform.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/x509_crt.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/x509_crl.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/ssl_tls.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/debug.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/ssl_internal.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/ssl_cli.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/ssl_ciphersuites.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/aes.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/padlock.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/aesni.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/aesni.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/padlock.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/bignum.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/bn_mul.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/ecp.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/ecp_curves.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/md.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/md_internal.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/md_wrap.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/rsa.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/pk.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/pk_internal.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/pkcs5.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/pkcs5.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/pkparse.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/pkcs12.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/pk_wrap.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/cipher.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/cipher_internal.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/gcm.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/ccm.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/cipher_wrap.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/arc4.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/camellia.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/des.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/asn1parse.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/asn1write.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/asn1write.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/dhm.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/ecdh.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/debug.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/oid.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/pem.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/base64.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/gcm.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/ccm.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/platform.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/certs.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/certs.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/des.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/error.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/error.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/hmac_drbg.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls\../../include/mbedtls/xtea.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/timing.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/arc4.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/camellia.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/ecdsa.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/pkcs12.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/base64.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\mbedtls/hmac_drbg.c
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\easywsclient/easywsclient.cpp
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/GSPlatformDeduction.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\easywsclient/easywsclient.hpp
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/gsstl.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\mutex
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\chrono
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ratio
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthrcommon.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\functional
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thread
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthread
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xtime
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\list
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtree
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\array
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\clocale
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\queue
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\deque
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\set
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\fstream
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/GSLeakDetector.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/GSUtil.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\easywsclient/WinImplSockets.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\easywsclient/CertificateStore.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\easywsclient/easywsclient_MessageWebSocket.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\google/timesupport.cpp
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\google/timesupport.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\cjson/cJSON.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\cjson/cJSON.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparks/GS.cpp
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/GSVersion.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparks\./GSClientConfig.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/GSObject.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\GSRequestData.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\GSData.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\IGSData.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\GSOptional.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\GSDateTime.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/GSLinking.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ctime
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\GSLinking.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\GSLinking.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\GSLinking.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/GSTime.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/GS.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\IGSPlatform.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\GSRequest.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\GSLinking.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\GSConnection.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/GSLinking.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/GSMessage.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\GSTypedResponse.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparks/GSConnection.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparks/GSData.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\math.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparks/GSDateTime.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparks/GSRequest.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparks/GSUtil.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparks/IGSPlatform.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\locale
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocbuf
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocmes
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocmon
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xloctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\shlwapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\wtypesbase.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\unknwnbase.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\oaidl.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\objidl.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\urlmon.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\servprov.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\shtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\shlobj.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\commctrl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\dpa_dsa.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\shobjidl.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\docobj.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ocidl.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\comcat.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\prsht.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\propsys.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\StructuredQueryCondition.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\propkeydef.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ObjectArray.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\shobjidl_core.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\sherrors.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\shlobj_core.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\shlguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\isguids.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\exdisp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\shldisp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um\knownfolders.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\poppack.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparks/gsstl.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Commands/ActionCommand.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\./ActionCommand.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\../IRTCommand.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\../../System/Action.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Commands/CommandFactory.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\../Proto/ProtocolParser.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\proto\../../System/IO/Stream.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\io\SeekOrigin.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\io\../../../include/System/Bytes.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\io\../NotImplementedException.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\./Exception.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\io\../Failable.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\../../include/System/Nullable.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\system\../GameSparksRT/GSLinking.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\../../include/System/FailableForward.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\proto\../../System/IO/MemoryStream.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\proto\../../System/Text/Encoding/UTF8.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\proto\../../System/IO/IOException.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\io\../SystemException.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\proto\../../System/String.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\proto\./ProtocolBufferException.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\./CommandFactory.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\../../../include/GameSparksRT/Forwards.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\./Results/LoginResult.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\results\./AbstractResult.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\./Results/PingResult.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\./Results/UDPConnectMessage.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\./Results/PlayerConnectMessage.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\./Results/PlayerDisconnectMessage.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\./CustomCommand.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\../Proto/LimitedPositionStream.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\proto\./PositionStream.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\proto\../../System/IO/BinaryReader.hpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\../../../include/GameSparksRT/RTData.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparksrt\./GameSparksRT.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparksrt\./GSLinking.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparksrt\./Proto/RTVal.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparksrt\proto\../GSLinking.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparksrt\./GSLinking.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\../IRTSessionInternal.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\../../include/GameSparksRT/IRTSession.hpp
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\System/ArraySegment.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\../../include/GameSparksRT/IRTSessionListener.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparksrt\./GSLinking.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Commands/CustomCommand.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Commands/LogCommand.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\./LogCommand.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\../../System/Threading/Thread.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Commands/Requests/CustomRequest.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\requests\./CustomRequest.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\requests\./RTRequest.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\requests\../../Proto/Packet.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Commands/Requests/LoginCommand.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\requests\./LoginCommand.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Commands/Requests/PingCommand.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\commands\requests\./PingCommand.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Commands/Results/LoginResult.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Commands/Results/PingResult.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Commands/Results/PlayerConnectMessage.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Commands/Results/PlayerDisconnectMessage.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Commands/Results/UDPConnectMessage.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Connection/Connection.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\connection\./Connection.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\connection\../../System/Net/IPEndPoint.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Connection/FastConnection.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\connection\./FastConnection.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\connection\../../System/Net/Sockets/UdpClient.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\net\sockets\Socket.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\net\sockets\../../AsyncCallback.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\IAsyncResult.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\net\sockets\./AddressFamily.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\net\sockets\./SocketType.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\net\sockets\./ProtocolType.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\net\sockets\SocketOptionLevel.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\net\sockets\SocketOptionName.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\connection\../Proto/ReusableBinaryWriter.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\proto\../../System/IO/BinaryWriter.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Connection/ReliableConnection.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\connection\./ReliableConnection.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\connection\../../System/Net/Sockets/TcpClient.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\net\sockets\./TLSSocket.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\net\sockets\./NetworkStream.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Connection/WebSocketConnection.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/GameSparksRT.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\./RTSessionImpl.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Proto/LimitedPositionStream.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Proto/Packet.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\proto\../../System/IO/EndOfStreamException.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Proto/PositionStream.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Proto/ReusableBinaryWriter.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Proto/RTData.Serializer.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparksrt\proto\./RTData.Serializer.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/Proto/RTVal.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/RTData.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\GameSparksRT/RTSessionImpl.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\System/IO/BinaryReader.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\io\../ArgumentException.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\io\../ArgumentOutOfRangeException.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\System/IO/BinaryWriter.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\System/IO/MemoryStream.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\io\../NotSupportedException.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\System/IO/Stream.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\System/Net/Sockets/NetworkStream.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\System/Net/Sockets/Socket.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\net\sockets\../../ObjectDisposedException.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\system\./InvalidOperationException.hpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\System/Net/Sockets/TLSSocket.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\System/Net/Sockets/TcpClient.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\System/Net/Sockets/UdpClient.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\System/Text/Encoding/UTF8.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\src\System/Threading/Thread.cpp
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Windows\HideWindowsPlatformTypes.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\GameSparksComponent.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\GameSparksComponent.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\GSTypes.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\GameSparksScriptData.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Public\Engine.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Core.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformNamedPipe.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\HAL/PlatformNamedPipe.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Windows/WindowsPlatformNamedPipe.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCriticalSection.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\HAL/PlatformFile.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Windows/WindowsPlatformFile.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\HAL/PlatformIncludes.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\HAL/PlatformFilemanager.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/MessageDialog.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\ProfilingDebugging/ScopedDebugInfo.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\ProfilingDebugging/ExternalProfiler.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/StringUtility.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Serialization/NameAsStringProxyArchive.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Containers/MRUArray.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Containers/TransArray.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Containers/ArrayBuilder.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/SingleThreadEvent.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Containers/StaticBitArray.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Containers/MapBuilder.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\HAL/ThreadingBase.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Internationalization/TextLocalizationManagerGlobals.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Internationalization/Culture.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Logging/LogSuppressionInterface.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Logging/LogScopedCategoryAndVerbosityOverride.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\HAL/OutputDevices.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Logging/LogScopedVerbosityOverride.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/OutputDeviceNull.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/OutputDeviceMemory.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/OutputDeviceFile.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/OutputDeviceDebug.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/OutputDeviceArchiveWrapper.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/OutputDeviceAnsiError.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/TimeGuard.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Serialization/LargeMemoryWriter.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Serialization/LargeMemoryData.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Serialization/LargeMemoryReader.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Serialization/BufferArchive.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Serialization/MemoryReader.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Serialization/ArrayReader.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Serialization/ArrayWriter.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Serialization/BufferWriter.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/Variant.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/WildcardString.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Containers/CircularBuffer.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Containers/CircularQueue.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/OutputDeviceHelper.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/ScopedSlowTask.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/CallbackDevice.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/LocalTimestampDirectoryVisitor.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\UObject/BlueprintsObjectVersion.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\UObject/BuildObjectVersion.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\UObject/CoreObjectVersion.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\UObject/FrameworkObjectVersion.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\UObject/MobileObjectVersion.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\UObject/NetworkingObjectVersion.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\UObject/OnlineObjectVersion.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\UObject/PhysicsObjectVersion.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\UObject/PlatformObjectVersion.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\UObject/SequencerObjectVersion.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\UObject/VRObjectVersion.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/OutputDeviceConsole.h
+c:\unrealengine-4.22\engine\source\runtime\core\public\Misc/MonitoredProcess.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\UObject/ErrorException.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\UObject/UObjectAllocator.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Misc/TextBuffer.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/PropertyLocalizationDataGathering.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\UObject/LevelGuids.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\UObject/MetaData.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\UObject/ObjectMemoryAnalyzer.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\UObject/ReferenceChainSearch.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Internationalization/TextPackageNamespaceUtil.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveCountMem.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ObjectAndNameAsStringProxyArchive.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ObjectWriter.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ObjectReader.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveShowReferences.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/FindReferencersArchive.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/FindObjectReferencers.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveFindCulprit.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectGraph.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/TraceReferences.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveTraceRoute.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/DuplicatedObject.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataReader.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataWriter.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceObjectRef.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceOrClearExternalReferences.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectPropertyMapper.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveReferenceMarker.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectCrc32.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\UObject/LinkerSave.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Misc/NotifyHook.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\Misc/RedirectCollector.h
+c:\unrealengine-4.22\engine\source\runtime\coreuobject\public\UObject/ScriptStackTracker.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\InputCore\Public\InputCore.h
+c:\unrealengine-4.22\engine\source\runtime\inputcore\public\InputCoreModule.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\EngineSettings\Public\EngineSettings.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\EngineSettings\Classes\ConsoleSettings.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings\ConsoleSettings.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\EngineSettings\Classes\GameNetworkManagerSettings.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings\GameNetworkManagerSettings.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\EngineSettings\Classes\GameMapsSettings.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings\GameMapsSettings.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\EngineSettings\Classes\GameSessionSettings.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings\GameSessionSettings.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\EngineSettings\Classes\GeneralEngineSettings.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings\GeneralEngineSettings.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\EngineSettings\Classes\GeneralProjectSettings.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings\GeneralProjectSettings.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\EngineSettings\Classes\HudSettings.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings\HudSettings.generated.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\PrecomputedLightVolume.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\GraphEditAction.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\AI/RVOAvoidanceInterface.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RVOAvoidanceInterface.generated.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\AI/NavDataGenerator.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\ParticleVertexFactory.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\TessellationRendering.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\MeshParticleVertexFactory.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\ParticleHelper.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\Distributions.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\ParticleEmitterInstances.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionFloat.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/Distribution.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Distribution.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionFloat.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionVector.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionVector.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Particles/Orientation/ParticleModuleOrientationAxisLock.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Particles/Orientation/ParticleModuleOrientationBase.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Particles/ParticleModule.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleModule.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleModuleOrientationBase.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleModuleOrientationAxisLock.generated.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\Scalability.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\EngineMinimal.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemBase.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetworkPredictionInterface.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Particles/ParticleEmitter.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleEmitter.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/LightComponent.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponentBase.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/PointLightComponent.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/LocalLightComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalLightComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PointLightComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/SpotLightComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpotLightComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+c:\unrealengine-4.22\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Sound/AmbientSound.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AmbientSound.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/BlockingVolume.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlockingVolume.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/CameraBlockingVolume.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraBlockingVolume.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/CullDistanceVolume.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CullDistanceVolume.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreamingVolume.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LevelStreamingVolume.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PhysicsVolume.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsVolume.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DefaultPhysicsVolume.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DefaultPhysicsVolume.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/KillZVolume.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KillZVolume.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PainCausingVolume.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PainCausingVolume.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Interfaces/Interface_PostProcessVolume.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Interface_PostProcessVolume.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/PostProcessVolume.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PostProcessVolume.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/TriggerVolume.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerVolume.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/SubsurfaceProfile.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SubsurfaceProfile.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/DebugCameraController.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugCameraController.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/DecalActor.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DecalActor.generated.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\CanvasItem.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\CanvasTypes.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CanvasTypes.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Atmosphere/AtmosphericFog.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AtmosphericFog.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/ExponentialHeightFog.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ExponentialHeightFog.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameSession.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameSession.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameState.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameState.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameMode.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerState.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/SkyLight.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SkyLight.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/LevelBounds.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LevelBounds.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/LevelScriptActor.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LevelScriptActor.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/Light.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Light.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/DirectionalLight.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DirectionalLight.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/PointLight.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PointLight.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/SpotLight.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpotLight.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/GeneratedMeshAreaLight.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GeneratedMeshAreaLight.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/NavigationObjectBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationObjectBase.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerStart.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerStart.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/PlayerStartPIE.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerStartPIE.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/Note.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Note.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/FloatingPawnMovement.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FloatingPawnMovement.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DefaultPawn.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DefaultPawn.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/SpectatorPawn.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpectatorPawn.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/ReflectionCapture.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ReflectionCapture.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/BoxReflectionCapture.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxReflectionCapture.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/PlaneReflectionCapture.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlaneReflectionCapture.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/SphereReflectionCapture.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereReflectionCapture.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/RigidBodyBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RigidBodyBase.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsConstraintActor.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsConstraintActor.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsThruster.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsThruster.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/RadialForceActor.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RadialForceActor.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/SceneCapture.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCapture.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/SceneCapture2D.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCapture2D.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/SceneCaptureCube.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureCube.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshActor.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/TargetPoint.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TargetPoint.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\VectorField/VectorFieldVolume.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VectorFieldVolume.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/SpectatorPawnMovement.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpectatorPawnMovement.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RotatingMovementComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RotatingMovementComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/PawnNoiseEmitterComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnNoiseEmitterComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsHandleComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsHandleComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Atmosphere/AtmosphericFogComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AtmosphericFogComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/DecalComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DecalComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/ExponentialHeightFogComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ExponentialHeightFogComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/DirectionalLightComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DirectionalLightComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/SkyLightComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SkyLightComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/PostProcessComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PostProcessComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/ArrowComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ArrowComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BillboardComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/BrushComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BrushComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/DrawFrustumComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DrawFrustumComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Debug/DebugDrawService.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugDrawService.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/LineBatchComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LineBatchComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/MaterialBillboardComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialBillboardComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Lightmass/LightmassPrimitiveSettingsObject.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightmassPrimitiveSettingsObject.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/InstancedStaticMeshComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InstancedStaticMeshComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/ModelComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ModelComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/DrawSphereComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DrawSphereComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextRenderComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/VectorFieldComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VectorFieldComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/RadialForceComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RadialForceComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/ReflectionCaptureComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ReflectionCaptureComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/BoxReflectionCaptureComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxReflectionCaptureComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/PlaneReflectionCaptureComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlaneReflectionCaptureComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/SphereReflectionCaptureComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereReflectionCaptureComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent2D.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent2D.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponentCube.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponentCube.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Components/TimelineComponent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TimelineComponent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetImportData.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraAnim.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraAnim.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraAnimInst.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraAnimInst.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraModifier.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraModifier.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraModifier_CameraShake.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraModifier_CameraShake.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/CheatManager.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CheatManager.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Curves/CurveLinearColor.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveLinearColor.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Curves/CurveVector.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveVector.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/CurveTable.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Curves/SimpleCurve.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SimpleCurve.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveTable.generated.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\DataTableUtils.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Sound/DialogueVoice.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueVoice.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Sound/DialogueWave.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueWave.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionFloatConstant.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionFloatConstant.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionFloatParameterBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionFloatParameterBase.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionFloatParticleParameter.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionFloatParticleParameter.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionFloatConstantCurve.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionFloatConstantCurve.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionFloatUniform.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionFloatUniform.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionFloatUniformCurve.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionFloatUniformCurve.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionVectorConstant.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionVectorConstant.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionVectorParameterBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionVectorParameterBase.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionVectorParticleParameter.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionVectorParticleParameter.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionVectorConstantCurve.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionVectorConstantCurve.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionVectorUniform.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionVectorUniform.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionVectorUniformCurve.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionVectorUniformCurve.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameEngine.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Exporters/Exporter.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Exporter.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameUserSettings.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameUserSettings.generated.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\GestureRecognizer.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\KeyState.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputSettings.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/InterpCurveEdSetup.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InterpCurveEdSetup.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/IntSerialization.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\IntSerialization.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Layers/Layer.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Layer.generated.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\LatentActions.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreaming.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LevelStreaming.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreamingAlwaysLoaded.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LevelStreamingAlwaysLoaded.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreamingDynamic.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LevelStreamingDynamic.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreamingPersistent.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LevelStreamingPersistent.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Lightmass/LightmappedSurfaceCollection.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightmappedSurfaceCollection.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/LocalMessage.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalMessage.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/EngineMessage.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineMessage.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceConstant.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceConstant.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Materials/MaterialParameterCollection.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialParameterCollection.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Materials/MaterialParameterCollectionInstance.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialParameterCollectionInstance.generated.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\PacketHandlers/StatelessConnectHandlerComponent.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/NetworkSettings.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetworkSettings.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/ObjectLibrary.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ObjectLibrary.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/ObjectReferencer.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ObjectReferencer.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineSession.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineSession.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/PackageMapClient.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Misc/NetworkVersion.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PackageMapClient.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\PhysicalMaterials/PhysicalMaterial.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Vehicles/TireType.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TireType.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsSettingsEnums.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsSettingsEnums.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicalMaterial.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\PhysicalMaterials/PhysicalMaterialPropertyBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicalMaterialPropertyBase.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsCollisionHandler.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsCollisionHandler.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/PlatformInterfaceBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlatformInterfaceBase.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/CloudStorageBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CloudStorageBase.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/InGameAdManager.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InGameAdManager.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/MicroTransactionBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MicroTransactionBase.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/TwitterIntegrationBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TwitterIntegrationBase.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/PlatformInterfaceWebResponse.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlatformInterfaceWebResponse.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/Polys.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Polys.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Sound/ReverbEffect.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ReverbEffect.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/SaveGame.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SaveGame.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/SCS_Node.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/SimpleConstructionScript.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SimpleConstructionScript.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SCS_Node.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/Selection.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Selection.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/SkeletalMeshSocket.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SkeletalMeshSocket.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Sound/DialogueSoundWaveProxy.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueSoundWaveProxy.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Sound/SoundCue.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNode.generated.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundCue.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundMix.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshSocket.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshSocket.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraStackTypes.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraStackTypes.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Tests/TextPropertyTestObject.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextPropertyTestObject.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/TextureLODSettings.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureLODSettings.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfile.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeviceProfile.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfileManager.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeviceProfileManager.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightMapTexture2D.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/ShadowMapTexture2D.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShadowMapTexture2D.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/Texture2DDynamic.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture2DDynamic.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureCube.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/CanvasRenderTarget2D.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CanvasRenderTarget2D.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTargetCube.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTargetCube.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\EditorFramework/ThumbnailInfo.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ThumbnailInfo.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/TimelineTemplate.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TimelineTemplate.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/TouchInterface.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TouchInterface.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedEnum.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserDefinedEnum.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserDefinedStruct.generated.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Classes\Animation/MorphTarget.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MorphTarget.generated.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\SystemSettings.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\DrawDebugHelpers.h
+c:\unrealengine-4.22\engine\source\runtime\engine\public\EngineUtils.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\SlateCore\Public\SlateCore.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Layout/LayoutUtils.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Animation/SlateSprings.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Sound/ISlateSoundDevice.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Sound/NullSlateSoundDevice.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Textures/SlateUpdatableTexture.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Fonts/FontBulkData.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontBulkData.generated.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Fonts/FontMeasure.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Brushes/SlateBorderBrush.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Brushes/SlateBoxBrush.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Brushes/SlateColorBrush.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Brushes/SlateImageBrush.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Styling/SlateStyleRegistry.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Styling/SlateStyle.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Types/NavigationMetaData.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Rendering/RenderingPolicy.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Rendering/SlateDrawBuffer.h
+c:\unrealengine-4.22\engine\source\runtime\slatecore\public\Widgets/SUserWidget.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Slate\Public\SlateBasics.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Json\Public\Json.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\SlateOptMacros.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/PlatformTextField.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/GenericPlatformTextField.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Application/IPlatformTextField.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Application/NavigationConfig.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/SWeakWidget.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/TextHitPoint.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/IRunRenderer.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/ILineHighlighter.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/ILayoutBlock.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/DefaultLayoutBlock.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/WidgetLayoutBlock.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/ISlateRun.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/ISlateRunRenderer.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/ISlateLineHighlighter.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/SlateTextLayout.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/SlateTextRun.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/SlateHyperlinkRun.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/SlateImageRun.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/SlateWidgetRun.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/TextLayoutEngine.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Layout/SFxWidget.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Layout/SSeparator.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Layout/SSpacer.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Layout/SWrapBox.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\SlateCore\Public\Widgets/Images/SImage.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Images/SSpinningImage.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Notifications/SProgressBar.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\SProgressBar.generated.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/SCanvas.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/ITextDecorator.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/TextDecorators.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Text/SlateTextLayoutFactory.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Text/SRichTextBlock.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Layout/SHeader.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Layout/SGridPanel.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Layout/SUniformGridPanel.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Text/ISlateEditableTextWidget.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Text/SMultiLineEditableText.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Input/SMultiLineEditableTextBox.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Input/SEditableText.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Input/SEditableTextBox.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/SToolTip.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Layout/SScrollBarTrack.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Layout/SScrollBorder.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Notifications/SErrorText.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Notifications/SErrorHint.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Notifications/SPopUpErrorText.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Input/SComboButton.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Views/STileView.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Views/STreeView.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Layout/SScrollBox.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Colors/SColorBlock.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Input/NumericTypeInterface.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Math/BasicMathExpressionEvaluator.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Core\Public\Internationalization/FastDecimalFormat.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Input/SSpinBox.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Input/SSlider.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Widgets/Input/SComboBox.h
+c:\unrealengine-4.22\engine\source\runtime\slate\public\Framework/Docking/LayoutService.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\GameSparksClasses.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\GameSparksScriptData.generated.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\GSTypes.generated.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\GameSparksComponent.generated.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Public\GameSparksModule.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\public\IGameSparks.h
+C:\UnrealEngine-4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineDelegateMacros.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\GameSparksLogEventData.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\GameSparksLogEventData.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/generated/GSRequests.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\generated\../GSTypedRequest.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\generated\GSResponses.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\generated\GSTypes.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\GameSparksLogEventData.generated.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\GameSparksModule.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\GameSparksObject.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\GameSparksObject.generated.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\GSMessageListeners.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/generated/GSMessages.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\GSMessageListeners.generated.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\GameSparksUnrealPlatform.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\GameSparksObject.cpp
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\GameSparksRequestArray.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\GameSparksRequestArray.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\GameSparksRequestArray.generated.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\GameSparksScriptData.cpp
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\GSApi.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\GSApi.h
+C:\UnrealEngine-4.22\Engine\Source\Runtime\Engine\Public\Net\OnlineBlueprintCallProxyBase.h
+C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineBlueprintCallProxyBase.generated.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\GSApi.generated.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\GSMessageListeners.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\GSMessageListenersObject.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\GSMessageListenersObject.generated.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\GSMessageListenersObject.cpp
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\RT\UGSRTData.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\rt\UGSRTData.h
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\rt\UGSRTVector.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\UGSRTVector.generated.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\UGSRTData.generated.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\RT\UGSRTSession.cpp
+c:\users\zachs\documents\gamedev\tradingcardgame\plugins\gamesparks\source\gamesparks\private\rt\UGSRTSession.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparksBaseSDK\include\GameSparks/GSLinking.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks\UGSRTSession.generated.h
+C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Source\GameSparks\Private\RT\UGSRTVector.cpp

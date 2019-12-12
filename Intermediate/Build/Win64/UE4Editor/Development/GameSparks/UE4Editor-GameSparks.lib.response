@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GameSparks.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.cpp.obj"
+"C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.1_of_3.cpp.obj"
+"C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.2_of_3.cpp.obj"
+"C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.3_of_3.cpp.obj"
+"C:\UnrealEngine-4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Users\zachs\Documents\GameDev\TradingCardGame\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\UE4Editor-GameSparks.lib"
+/INCLUDE:IMPLEMENT_MODULE_GameSparks
